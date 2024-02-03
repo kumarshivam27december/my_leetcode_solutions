@@ -10,3 +10,4 @@ public:
     }
 };
 
+//there can be more alternate ways to solve it like greedy approach
